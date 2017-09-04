@@ -7,9 +7,9 @@
 -	Bahasa pemrograman menggunakan Go karena performa yang lebih baik dibandingkan PHP, Python, dan Ruby.
 
 2.	Untuk menangani keamanan dalam pengiriman data :
-•	Menggunakan enkripsi untuk melindungi kode aplikasi
-•	Menguji adanya celah pada kode, system atau jaringan seperti dengan menjalankan penetration test
-•	Enkripsi database dan koneksi dengan VPN, SSL, atau TLS
-•	Autentikasi dan Authorization dengan OAuth2 atau JSON web token
+- Menggunakan enkripsi untuk melindungi kode aplikasi
+- Menguji adanya celah pada kode, system atau jaringan seperti dengan menjalankan penetration test
+- Enkripsi database dan koneksi dengan VPN, SSL, atau TLS
+- Autentikasi dan Authorization dengan OAuth2 atau JSON web token
 
 3. Kode ada di main.go
